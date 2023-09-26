@@ -1,0 +1,29 @@
+﻿<Window x:Class="HexaDeBi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HexaDeBi"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="19*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Convert To Binary" HorizontalAlignment="Left" Margin="287,169,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Click ="ConvertButton_Click" Height="48" Width="150" ClickMode="Press" FontSize="16" Grid.Column="1">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <TextBlock x:Name ="binaryText" Grid.Column="1" HorizontalAlignment="Left" Margin="437,65,0,0" TextWrapping="Wrap" Text="Output" VerticalAlignment="Top" Height="359" Width="283" FontSize="36"/>
+        <TextBox x:Name ="InputText" Grid.Column="1" HorizontalAlignment="Left" Margin="18,65,0,0" TextWrapping="Wrap" Text="Input" VerticalAlignment="Top" Width="252" Height="369" RenderTransformOrigin="0.51,0.484" FontSize="36"/>
+        <Button Grid.Column="1" Content="Convert to Decimal" HorizontalAlignment="Left" Margin="287,333,0,0" VerticalAlignment="Top" Height="48" Width="150" ClickMode="Press" FontSize="16"/>
+        <Button Grid.Column="1" Content="Convert to Hex" HorizontalAlignment="Left" Margin="287,250,0,0" VerticalAlignment="Top" Height="48" Width="150" ClickMode="Press" FontSize="16" Click="Button_Click"/>
+    </Grid>
+</Window>

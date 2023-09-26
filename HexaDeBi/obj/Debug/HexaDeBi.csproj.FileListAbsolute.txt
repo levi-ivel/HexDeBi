@@ -1,0 +1,15 @@
+C:\Users\levi kingma\source\repos\HexaDeBi\obj\Debug\HexaDeBi.csproj.AssemblyReference.cache
+C:\Users\levi kingma\source\repos\HexaDeBi\obj\Debug\MainWindow.g.cs
+C:\Users\levi kingma\source\repos\HexaDeBi\obj\Debug\App.g.cs
+C:\Users\levi kingma\source\repos\HexaDeBi\obj\Debug\HexaDeBi_MarkupCompile.cache
+C:\Users\levi kingma\source\repos\HexaDeBi\obj\Debug\HexaDeBi_MarkupCompile.lref
+C:\Users\levi kingma\source\repos\HexaDeBi\bin\Debug\HexaDeBi.exe.config
+C:\Users\levi kingma\source\repos\HexaDeBi\bin\Debug\HexaDeBi.exe
+C:\Users\levi kingma\source\repos\HexaDeBi\bin\Debug\HexaDeBi.pdb
+C:\Users\levi kingma\source\repos\HexaDeBi\obj\Debug\MainWindow.baml
+C:\Users\levi kingma\source\repos\HexaDeBi\obj\Debug\HexaDeBi.g.resources
+C:\Users\levi kingma\source\repos\HexaDeBi\obj\Debug\HexaDeBi.Properties.Resources.resources
+C:\Users\levi kingma\source\repos\HexaDeBi\obj\Debug\HexaDeBi.csproj.GenerateResource.cache
+C:\Users\levi kingma\source\repos\HexaDeBi\obj\Debug\HexaDeBi.csproj.CoreCompileInputs.cache
+C:\Users\levi kingma\source\repos\HexaDeBi\obj\Debug\HexaDeBi.exe
+C:\Users\levi kingma\source\repos\HexaDeBi\obj\Debug\HexaDeBi.pdb
